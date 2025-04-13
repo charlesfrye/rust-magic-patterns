@@ -1,0 +1,1497 @@
+{"fut_name":"fut0","value":0.10036172,"start":2,"end":131,"thread_id":3779911}
+{"fut_name":"fut1","value":0.10036172,"start":132,"end":259,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.10036172,"start":262,"end":890,"thread_id":3779911}
+{"fut_name":"fut0","value":0.19970998,"start":892,"end":1020,"thread_id":3779911}
+{"fut_name":"fut1","value":0.19970998,"start":1020,"end":1147,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.19970998,"start":1147,"end":1776,"thread_id":3779911}
+{"fut_name":"fut0","value":0.29704157,"start":1777,"end":1904,"thread_id":3779911}
+{"fut_name":"fut1","value":0.29704157,"start":1905,"end":2034,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.29704157,"start":2034,"end":2662,"thread_id":3779911}
+{"fut_name":"fut0","value":0.39137366,"start":2664,"end":2792,"thread_id":3779911}
+{"fut_name":"fut1","value":0.39137366,"start":2794,"end":2921,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.39137366,"start":2922,"end":3550,"thread_id":3779911}
+{"fut_name":"fut0","value":0.4817537,"start":3552,"end":3681,"thread_id":3779911}
+{"fut_name":"fut1","value":0.4817537,"start":3683,"end":3812,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.4817537,"start":3812,"end":4442,"thread_id":3779911}
+{"fut_name":"fut0","value":0.5672689,"start":4444,"end":4571,"thread_id":3779911}
+{"fut_name":"fut1","value":0.5672689,"start":4572,"end":4699,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.5672689,"start":4699,"end":5327,"thread_id":3779911}
+{"fut_name":"fut0","value":0.647056,"start":5329,"end":5457,"thread_id":3779911}
+{"fut_name":"fut1","value":0.647056,"start":5457,"end":5584,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.647056,"start":5585,"end":6214,"thread_id":3779911}
+{"fut_name":"fut0","value":0.720309,"start":6215,"end":6343,"thread_id":3779911}
+{"fut_name":"fut1","value":0.720309,"start":6343,"end":6472,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.720309,"start":6472,"end":7100,"thread_id":3779911}
+{"fut_name":"fut0","value":0.78628844,"start":7102,"end":7230,"thread_id":3779911}
+{"fut_name":"fut1","value":0.78628844,"start":7230,"end":7357,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.78628844,"start":7357,"end":7986,"thread_id":3779911}
+{"fut_name":"fut0","value":0.844328,"start":7988,"end":8115,"thread_id":3779911}
+{"fut_name":"fut1","value":0.844328,"start":8116,"end":8242,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.844328,"start":8243,"end":8871,"thread_id":3779911}
+{"fut_name":"fut0","value":0.89384145,"start":8872,"end":9000,"thread_id":3779911}
+{"fut_name":"fut1","value":0.89384145,"start":9000,"end":9127,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.89384145,"start":9128,"end":9757,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9343289,"start":9759,"end":9886,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9343289,"start":9886,"end":10013,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9343289,"start":10014,"end":10642,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9653816,"start":10643,"end":10771,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9653816,"start":10771,"end":10898,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9653816,"start":10898,"end":11526,"thread_id":3779911}
+{"fut_name":"fut0","value":0.98668593,"start":11528,"end":11655,"thread_id":3779911}
+{"fut_name":"fut1","value":0.98668593,"start":11656,"end":11784,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.98668593,"start":11784,"end":12413,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9980267,"start":12414,"end":12543,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9980267,"start":12543,"end":12670,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9980267,"start":12670,"end":13298,"thread_id":3779911}
+{"fut_name":"fut0","value":0.99928945,"start":13300,"end":13429,"thread_id":3779911}
+{"fut_name":"fut1","value":0.99928945,"start":13429,"end":13562,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.99928945,"start":13562,"end":14190,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9904614,"start":14192,"end":14319,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9904614,"start":14320,"end":14460,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9904614,"start":14461,"end":15089,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9716317,"start":15090,"end":15218,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9716317,"start":15218,"end":15345,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9716317,"start":15345,"end":15974,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9429905,"start":15975,"end":16102,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9429905,"start":16103,"end":16230,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9429905,"start":16230,"end":16858,"thread_id":3779911}
+{"fut_name":"fut0","value":0.904827,"start":16859,"end":16987,"thread_id":3779911}
+{"fut_name":"fut1","value":0.904827,"start":16987,"end":17114,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.904827,"start":17114,"end":17743,"thread_id":3779911}
+{"fut_name":"fut0","value":0.85752666,"start":17744,"end":17886,"thread_id":3779911}
+{"fut_name":"fut1","value":0.85752666,"start":17887,"end":18014,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.85752666,"start":18015,"end":18643,"thread_id":3779911}
+{"fut_name":"fut0","value":0.8015669,"start":18644,"end":18772,"thread_id":3779911}
+{"fut_name":"fut1","value":0.8015669,"start":18772,"end":18899,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.8015669,"start":18900,"end":19529,"thread_id":3779911}
+{"fut_name":"fut0","value":0.73751307,"start":19531,"end":19680,"thread_id":3779911}
+{"fut_name":"fut1","value":0.73751307,"start":19681,"end":19808,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.73751307,"start":19808,"end":20436,"thread_id":3779911}
+{"fut_name":"fut0","value":0.6660119,"start":20438,"end":20565,"thread_id":3779911}
+{"fut_name":"fut1","value":0.6660119,"start":20566,"end":20693,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.6660119,"start":20693,"end":21321,"thread_id":3779911}
+{"fut_name":"fut0","value":0.5877852,"start":21322,"end":21450,"thread_id":3779911}
+{"fut_name":"fut1","value":0.5877852,"start":21451,"end":21599,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.5877852,"start":21600,"end":22229,"thread_id":3779911}
+{"fut_name":"fut0","value":0.50362325,"start":22230,"end":22381,"thread_id":3779911}
+{"fut_name":"fut1","value":0.50362325,"start":22382,"end":22510,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.50362325,"start":22511,"end":23139,"thread_id":3779911}
+{"fut_name":"fut0","value":0.41437548,"start":23140,"end":23268,"thread_id":3779911}
+{"fut_name":"fut1","value":0.41437548,"start":23269,"end":23397,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.41437548,"start":23397,"end":24025,"thread_id":3779911}
+{"fut_name":"fut0","value":0.3209436,"start":24027,"end":24155,"thread_id":3779911}
+{"fut_name":"fut1","value":0.3209436,"start":24155,"end":24283,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.3209436,"start":24285,"end":24936,"thread_id":3779911}
+{"fut_name":"fut0","value":0.22427063,"start":24937,"end":25065,"thread_id":3779911}
+{"fut_name":"fut1","value":0.22427063,"start":25065,"end":25194,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.22427063,"start":25194,"end":25822,"thread_id":3779911}
+{"fut_name":"fut0","value":0.1253332,"start":25824,"end":25951,"thread_id":3779911}
+{"fut_name":"fut1","value":0.1253332,"start":25952,"end":26078,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.1253332,"start":26079,"end":26706,"thread_id":3779911}
+{"fut_name":"fut0","value":0.025129924,"start":26708,"end":26836,"thread_id":3779911}
+{"fut_name":"fut1","value":0.025129924,"start":26838,"end":26970,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.025129924,"start":26970,"end":27621,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.075326875,"start":27622,"end":27750,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.075326875,"start":27750,"end":27877,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.075326875,"start":27877,"end":28506,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.17502303,"start":28507,"end":28634,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.17502303,"start":28635,"end":28762,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.17502303,"start":28763,"end":29391,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.27295205,"start":29392,"end":29495,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.27295205,"start":29496,"end":29623,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.27295205,"start":29623,"end":30251,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.36812454,"start":30253,"end":30380,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.36812454,"start":30381,"end":30508,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.36812454,"start":30508,"end":31137,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.45957997,"start":31138,"end":31266,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.45957997,"start":31266,"end":31394,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.45957997,"start":31394,"end":32023,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.5463944,"start":32024,"end":32151,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.5463944,"start":32152,"end":32279,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.5463944,"start":32279,"end":32907,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.6276915,"start":32909,"end":33037,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.6276915,"start":33038,"end":33165,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.6276915,"start":33165,"end":33793,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.70265,"start":33795,"end":33925,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.70265,"start":33926,"end":34053,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.70265,"start":34053,"end":34681,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.77051336,"start":34683,"end":34831,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.77051336,"start":34831,"end":34965,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.77051336,"start":34966,"end":35618,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8305958,"start":35619,"end":35747,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8305958,"start":35747,"end":35874,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8305958,"start":35875,"end":36502,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8822912,"start":36504,"end":36634,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8822912,"start":36635,"end":36797,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8822912,"start":36798,"end":37449,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.92507726,"start":37450,"end":37578,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.92507726,"start":37578,"end":37705,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.92507726,"start":37705,"end":38333,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.95852184,"start":38335,"end":38463,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.95852184,"start":38463,"end":38592,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.95852184,"start":38593,"end":39245,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9822872,"start":39246,"end":39374,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9822872,"start":39374,"end":39501,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9822872,"start":39501,"end":40129,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9961336,"start":40131,"end":40258,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9961336,"start":40259,"end":40386,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9961336,"start":40386,"end":41015,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.999921,"start":41017,"end":41123,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.999921,"start":41124,"end":41252,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.999921,"start":41252,"end":41880,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.99361134,"start":41881,"end":42009,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.99361134,"start":42009,"end":42136,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.99361134,"start":42136,"end":42765,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9772681,"start":42766,"end":42894,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9772681,"start":42894,"end":43021,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9772681,"start":43022,"end":43649,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9510565,"start":43651,"end":43783,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9510565,"start":43783,"end":43911,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9510565,"start":43911,"end":44539,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.91524106,"start":44541,"end":44669,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.91524106,"start":44669,"end":44796,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.91524106,"start":44797,"end":45425,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.87018377,"start":45426,"end":45554,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.87018377,"start":45554,"end":45681,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.87018377,"start":45681,"end":46309,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8163392,"start":46310,"end":46438,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8163392,"start":46438,"end":46565,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8163392,"start":46566,"end":47194,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.75425124,"start":47195,"end":47322,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.75425124,"start":47323,"end":47449,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.75425124,"start":47450,"end":48078,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.6845468,"start":48079,"end":48207,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.6845468,"start":48207,"end":48334,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.6845468,"start":48334,"end":48963,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.6079303,"start":48964,"end":49092,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.6079303,"start":49092,"end":49219,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.6079303,"start":49219,"end":49848,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.5251745,"start":49849,"end":49977,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.5251745,"start":49977,"end":50104,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.5251745,"start":50104,"end":50733,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.43711552,"start":50734,"end":50861,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.43711552,"start":50862,"end":50989,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.43711552,"start":50989,"end":51617,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.344643,"start":51619,"end":51746,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.344643,"start":51747,"end":51874,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.344643,"start":51874,"end":52506,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.24868982,"start":52508,"end":52650,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.24868982,"start":52651,"end":52803,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.24868982,"start":52804,"end":53432,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.15022539,"start":53434,"end":53570,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.15022539,"start":53571,"end":53678,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.15022539,"start":53679,"end":54308,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.050243974,"start":54309,"end":54436,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.050243974,"start":54437,"end":54564,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.050243974,"start":54564,"end":55192,"thread_id":3779911}
+{"fut_name":"fut0","value":0.050244324,"start":55193,"end":55334,"thread_id":3779911}
+{"fut_name":"fut1","value":0.050244324,"start":55334,"end":55461,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.050244324,"start":55462,"end":56090,"thread_id":3779911}
+{"fut_name":"fut0","value":0.15022573,"start":56091,"end":56219,"thread_id":3779911}
+{"fut_name":"fut1","value":0.15022573,"start":56220,"end":56348,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.15022573,"start":56349,"end":56976,"thread_id":3779911}
+{"fut_name":"fut0","value":0.24869016,"start":56978,"end":57105,"thread_id":3779911}
+{"fut_name":"fut1","value":0.24869016,"start":57106,"end":57233,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.24869016,"start":57233,"end":57861,"thread_id":3779911}
+{"fut_name":"fut0","value":0.34464288,"start":57862,"end":57990,"thread_id":3779911}
+{"fut_name":"fut1","value":0.34464288,"start":57990,"end":58119,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.34464288,"start":58119,"end":58747,"thread_id":3779911}
+{"fut_name":"fut0","value":0.43711582,"start":58749,"end":58877,"thread_id":3779911}
+{"fut_name":"fut1","value":0.43711582,"start":58877,"end":59004,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.43711582,"start":59005,"end":59633,"thread_id":3779911}
+{"fut_name":"fut0","value":0.5251748,"start":59635,"end":59762,"thread_id":3779911}
+{"fut_name":"fut1","value":0.5251748,"start":59763,"end":59890,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.5251748,"start":59890,"end":60519,"thread_id":3779911}
+{"fut_name":"fut0","value":0.60793054,"start":60520,"end":60647,"thread_id":3779911}
+{"fut_name":"fut1","value":0.60793054,"start":60648,"end":60775,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.60793054,"start":60775,"end":61403,"thread_id":3779911}
+{"fut_name":"fut0","value":0.6845471,"start":61404,"end":61532,"thread_id":3779911}
+{"fut_name":"fut1","value":0.6845471,"start":61532,"end":61664,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.6845471,"start":61664,"end":62292,"thread_id":3779911}
+{"fut_name":"fut0","value":0.7542515,"start":62294,"end":62421,"thread_id":3779911}
+{"fut_name":"fut1","value":0.7542515,"start":62422,"end":62549,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.7542515,"start":62549,"end":63178,"thread_id":3779911}
+{"fut_name":"fut0","value":0.81633943,"start":63179,"end":63314,"thread_id":3779911}
+{"fut_name":"fut1","value":0.81633943,"start":63314,"end":63451,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.81633943,"start":63452,"end":64105,"thread_id":3779911}
+{"fut_name":"fut0","value":0.8701837,"start":64106,"end":64234,"thread_id":3779911}
+{"fut_name":"fut1","value":0.8701837,"start":64234,"end":64361,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.8701837,"start":64362,"end":64990,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9152412,"start":64991,"end":65119,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9152412,"start":65119,"end":65246,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9152412,"start":65247,"end":65875,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9510566,"start":65876,"end":66006,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9510566,"start":66007,"end":66135,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9510566,"start":66135,"end":66728,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9772682,"start":66730,"end":66858,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9772682,"start":66858,"end":66986,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9772682,"start":66987,"end":67615,"thread_id":3779911}
+{"fut_name":"fut0","value":0.99361134,"start":67616,"end":67744,"thread_id":3779911}
+{"fut_name":"fut1","value":0.99361134,"start":67744,"end":67873,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.99361134,"start":67873,"end":68501,"thread_id":3779911}
+{"fut_name":"fut0","value":0.999921,"start":68503,"end":68624,"thread_id":3779911}
+{"fut_name":"fut1","value":0.999921,"start":68625,"end":68752,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.999921,"start":68753,"end":69381,"thread_id":3779911}
+{"fut_name":"fut0","value":0.99613357,"start":69382,"end":69510,"thread_id":3779911}
+{"fut_name":"fut1","value":0.99613357,"start":69510,"end":69637,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.99613357,"start":69637,"end":70266,"thread_id":3779911}
+{"fut_name":"fut0","value":0.98228717,"start":70267,"end":70395,"thread_id":3779911}
+{"fut_name":"fut1","value":0.98228717,"start":70395,"end":70523,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.98228717,"start":70523,"end":71151,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9585218,"start":71152,"end":71279,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9585218,"start":71280,"end":71411,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9585218,"start":71412,"end":72040,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9250773,"start":72041,"end":72173,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9250773,"start":72174,"end":72303,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9250773,"start":72304,"end":72932,"thread_id":3779911}
+{"fut_name":"fut0","value":0.882291,"start":72933,"end":73061,"thread_id":3779911}
+{"fut_name":"fut1","value":0.882291,"start":73061,"end":73188,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.882291,"start":73189,"end":73817,"thread_id":3779911}
+{"fut_name":"fut0","value":0.83059585,"start":73819,"end":73948,"thread_id":3779911}
+{"fut_name":"fut1","value":0.83059585,"start":73948,"end":74075,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.83059585,"start":74075,"end":74703,"thread_id":3779911}
+{"fut_name":"fut0","value":0.7705128,"start":74704,"end":74832,"thread_id":3779911}
+{"fut_name":"fut1","value":0.7705128,"start":74832,"end":74959,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.7705128,"start":74960,"end":75589,"thread_id":3779911}
+{"fut_name":"fut0","value":0.7026498,"start":75590,"end":75717,"thread_id":3779911}
+{"fut_name":"fut1","value":0.7026498,"start":75718,"end":75849,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.7026498,"start":75850,"end":76428,"thread_id":3779911}
+{"fut_name":"fut0","value":0.6276914,"start":76430,"end":76582,"thread_id":3779911}
+{"fut_name":"fut1","value":0.6276914,"start":76583,"end":76711,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.6276914,"start":76711,"end":77339,"thread_id":3779911}
+{"fut_name":"fut0","value":0.5463939,"start":77341,"end":77470,"thread_id":3779911}
+{"fut_name":"fut1","value":0.5463939,"start":77470,"end":77598,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.5463939,"start":77598,"end":78235,"thread_id":3779911}
+{"fut_name":"fut0","value":0.45957968,"start":78237,"end":78367,"thread_id":3779911}
+{"fut_name":"fut1","value":0.45957968,"start":78368,"end":78495,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.45957968,"start":78496,"end":79124,"thread_id":3779911}
+{"fut_name":"fut0","value":0.3681247,"start":79125,"end":79252,"thread_id":3779911}
+{"fut_name":"fut1","value":0.3681247,"start":79253,"end":79382,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.3681247,"start":79382,"end":80010,"thread_id":3779911}
+{"fut_name":"fut0","value":0.27295148,"start":80012,"end":80139,"thread_id":3779911}
+{"fut_name":"fut1","value":0.27295148,"start":80140,"end":80271,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.27295148,"start":80271,"end":80900,"thread_id":3779911}
+{"fut_name":"fut0","value":0.17502292,"start":80901,"end":81029,"thread_id":3779911}
+{"fut_name":"fut1","value":0.17502292,"start":81029,"end":81156,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.17502292,"start":81156,"end":81785,"thread_id":3779911}
+{"fut_name":"fut0","value":0.075327,"start":81786,"end":81913,"thread_id":3779911}
+{"fut_name":"fut1","value":0.075327,"start":81914,"end":82040,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.075327,"start":82041,"end":82673,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.02513051,"start":82674,"end":82802,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.02513051,"start":82803,"end":82963,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.02513051,"start":82964,"end":83594,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.12533331,"start":83596,"end":83725,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.12533331,"start":83725,"end":83852,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.12533331,"start":83852,"end":84480,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.22427051,"start":84481,"end":84609,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.22427051,"start":84609,"end":84736,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.22427051,"start":84737,"end":85366,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.32094395,"start":85367,"end":85495,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.32094395,"start":85496,"end":85623,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.32094395,"start":85623,"end":86251,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.4143756,"start":86252,"end":86380,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.4143756,"start":86380,"end":86507,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.4143756,"start":86507,"end":87139,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.5036237,"start":87141,"end":87269,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.5036237,"start":87269,"end":87398,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.5036237,"start":87398,"end":88026,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.5877855,"start":88027,"end":88155,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.5877855,"start":88155,"end":88282,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.5877855,"start":88282,"end":88910,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.6660118,"start":88911,"end":89039,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.6660118,"start":89040,"end":89167,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.6660118,"start":89168,"end":89796,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.7375135,"start":89798,"end":89926,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.7375135,"start":89926,"end":90053,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.7375135,"start":90053,"end":90681,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8015671,"start":90682,"end":90810,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8015671,"start":90811,"end":90937,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8015671,"start":90938,"end":91570,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8575266,"start":91571,"end":91699,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8575266,"start":91699,"end":91827,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8575266,"start":91827,"end":92455,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.90482724,"start":92456,"end":92584,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.90482724,"start":92584,"end":92711,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.90482724,"start":92711,"end":93339,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9429906,"start":93341,"end":93468,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9429906,"start":93469,"end":93596,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9429906,"start":93596,"end":94224,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9716317,"start":94226,"end":94354,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9716317,"start":94354,"end":94481,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9716317,"start":94481,"end":95109,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9904615,"start":95111,"end":95240,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9904615,"start":95241,"end":95367,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9904615,"start":95368,"end":95996,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9992895,"start":95997,"end":96126,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9992895,"start":96126,"end":96253,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9992895,"start":96254,"end":96881,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9980267,"start":96883,"end":97011,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9980267,"start":97011,"end":97138,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9980267,"start":97138,"end":97767,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.98668593,"start":97768,"end":97895,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.98668593,"start":97896,"end":98023,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.98668593,"start":98023,"end":98651,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9653816,"start":98653,"end":98780,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9653816,"start":98780,"end":98907,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9653816,"start":98908,"end":99536,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.93432873,"start":99537,"end":99665,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.93432873,"start":99665,"end":99792,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.93432873,"start":99793,"end":100421,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.89384127,"start":100422,"end":100550,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.89384127,"start":100550,"end":100679,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.89384127,"start":100679,"end":101307,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8443279,"start":101309,"end":101436,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8443279,"start":101437,"end":101564,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8443279,"start":101564,"end":102192,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.7862881,"start":102194,"end":102321,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.7862881,"start":102322,"end":102449,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.7862881,"start":102449,"end":103078,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.7203089,"start":103079,"end":103208,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.7203089,"start":103209,"end":103336,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.7203089,"start":103336,"end":103964,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.64705604,"start":103965,"end":104093,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.64705604,"start":104093,"end":104221,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.64705604,"start":104221,"end":104849,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.56726855,"start":104851,"end":104978,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.56726855,"start":104979,"end":105128,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.56726855,"start":105129,"end":105781,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.48175356,"start":105782,"end":105910,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.48175356,"start":105910,"end":106038,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.48175356,"start":106038,"end":106676,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.39137384,"start":106678,"end":106806,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.39137384,"start":106807,"end":106924,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.39137384,"start":106925,"end":107554,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.29704118,"start":107556,"end":107683,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.29704118,"start":107683,"end":107810,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.29704118,"start":107811,"end":108439,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.1997099,"start":108440,"end":108568,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.1997099,"start":108568,"end":108695,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.1997099,"start":108695,"end":109324,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.10036103,"start":109326,"end":109453,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.10036103,"start":109453,"end":109580,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.10036103,"start":109581,"end":110208,"thread_id":3779911}
+{"fut_name":"fut0","value":3.496911e-7,"start":110210,"end":110338,"thread_id":3779911}
+{"fut_name":"fut1","value":3.496911e-7,"start":110338,"end":110465,"thread_id":3779911}
+{"fut_name":"high cpu","value":3.496911e-7,"start":110466,"end":111095,"thread_id":3779911}
+{"fut_name":"fut0","value":0.10036173,"start":111096,"end":111224,"thread_id":3779911}
+{"fut_name":"fut1","value":0.10036173,"start":111224,"end":111351,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.10036173,"start":111351,"end":111979,"thread_id":3779911}
+{"fut_name":"fut0","value":0.1997106,"start":111981,"end":112108,"thread_id":3779911}
+{"fut_name":"fut1","value":0.1997106,"start":112108,"end":112237,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.1997106,"start":112237,"end":112866,"thread_id":3779911}
+{"fut_name":"fut0","value":0.29704186,"start":112867,"end":112996,"thread_id":3779911}
+{"fut_name":"fut1","value":0.29704186,"start":112996,"end":113123,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.29704186,"start":113123,"end":113751,"thread_id":3779911}
+{"fut_name":"fut0","value":0.39137363,"start":113752,"end":113880,"thread_id":3779911}
+{"fut_name":"fut1","value":0.39137363,"start":113881,"end":114007,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.39137363,"start":114008,"end":114635,"thread_id":3779911}
+{"fut_name":"fut0","value":0.48175418,"start":114637,"end":114764,"thread_id":3779911}
+{"fut_name":"fut1","value":0.48175418,"start":114765,"end":114892,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.48175418,"start":114892,"end":115521,"thread_id":3779911}
+{"fut_name":"fut0","value":0.56726915,"start":115523,"end":115650,"thread_id":3779911}
+{"fut_name":"fut1","value":0.56726915,"start":115650,"end":115777,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.56726915,"start":115777,"end":116405,"thread_id":3779911}
+{"fut_name":"fut0","value":0.64705586,"start":116407,"end":116534,"thread_id":3779911}
+{"fut_name":"fut1","value":0.64705586,"start":116535,"end":116662,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.64705586,"start":116662,"end":117291,"thread_id":3779911}
+{"fut_name":"fut0","value":0.7203094,"start":117293,"end":117421,"thread_id":3779911}
+{"fut_name":"fut1","value":0.7203094,"start":117422,"end":117549,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.7203094,"start":117549,"end":118177,"thread_id":3779911}
+{"fut_name":"fut0","value":0.7862885,"start":118178,"end":118306,"thread_id":3779911}
+{"fut_name":"fut1","value":0.7862885,"start":118306,"end":118433,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.7862885,"start":118433,"end":119062,"thread_id":3779911}
+{"fut_name":"fut0","value":0.84432834,"start":119063,"end":119191,"thread_id":3779911}
+{"fut_name":"fut1","value":0.84432834,"start":119191,"end":119318,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.84432834,"start":119318,"end":119946,"thread_id":3779911}
+{"fut_name":"fut0","value":0.8938416,"start":119947,"end":120075,"thread_id":3779911}
+{"fut_name":"fut1","value":0.8938416,"start":120075,"end":120202,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.8938416,"start":120202,"end":120830,"thread_id":3779911}
+{"fut_name":"fut0","value":0.934329,"start":120831,"end":120960,"thread_id":3779911}
+{"fut_name":"fut1","value":0.934329,"start":120960,"end":121087,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.934329,"start":121088,"end":121715,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9653818,"start":121717,"end":121844,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9653818,"start":121844,"end":121971,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9653818,"start":121971,"end":122599,"thread_id":3779911}
+{"fut_name":"fut0","value":0.986686,"start":122601,"end":122728,"thread_id":3779911}
+{"fut_name":"fut1","value":0.986686,"start":122728,"end":122857,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.986686,"start":122857,"end":123486,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9980267,"start":123488,"end":123616,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9980267,"start":123618,"end":123746,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9980267,"start":123747,"end":124375,"thread_id":3779911}
+{"fut_name":"fut0","value":0.99928945,"start":124377,"end":124505,"thread_id":3779911}
+{"fut_name":"fut1","value":0.99928945,"start":124506,"end":124636,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.99928945,"start":124638,"end":125267,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9904614,"start":125269,"end":125397,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9904614,"start":125398,"end":125526,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9904614,"start":125527,"end":126156,"thread_id":3779911}
+{"fut_name":"fut0","value":0.97163177,"start":126157,"end":126286,"thread_id":3779911}
+{"fut_name":"fut1","value":0.97163177,"start":126287,"end":126415,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.97163177,"start":126416,"end":127046,"thread_id":3779911}
+{"fut_name":"fut0","value":0.94299036,"start":127047,"end":127175,"thread_id":3779911}
+{"fut_name":"fut1","value":0.94299036,"start":127177,"end":127305,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.94299036,"start":127306,"end":127934,"thread_id":3779911}
+{"fut_name":"fut0","value":0.90482694,"start":127936,"end":128064,"thread_id":3779911}
+{"fut_name":"fut1","value":0.90482694,"start":128065,"end":128193,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.90482694,"start":128194,"end":128824,"thread_id":3779911}
+{"fut_name":"fut0","value":0.8575267,"start":128825,"end":128953,"thread_id":3779911}
+{"fut_name":"fut1","value":0.8575267,"start":128955,"end":129083,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.8575267,"start":129084,"end":129712,"thread_id":3779911}
+{"fut_name":"fut0","value":0.80156666,"start":129714,"end":129843,"thread_id":3779911}
+{"fut_name":"fut1","value":0.80156666,"start":129845,"end":129974,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.80156666,"start":129975,"end":130605,"thread_id":3779911}
+{"fut_name":"fut0","value":0.737513,"start":130607,"end":130736,"thread_id":3779911}
+{"fut_name":"fut1","value":0.737513,"start":130737,"end":130866,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.737513,"start":130867,"end":131496,"thread_id":3779911}
+{"fut_name":"fut0","value":0.66601133,"start":131498,"end":131626,"thread_id":3779911}
+{"fut_name":"fut1","value":0.66601133,"start":131628,"end":131756,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.66601133,"start":131758,"end":132386,"thread_id":3779911}
+{"fut_name":"fut0","value":0.58778495,"start":132388,"end":132518,"thread_id":3779911}
+{"fut_name":"fut1","value":0.58778495,"start":132519,"end":132648,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.58778495,"start":132650,"end":133279,"thread_id":3779911}
+{"fut_name":"fut0","value":0.5036231,"start":133280,"end":133409,"thread_id":3779911}
+{"fut_name":"fut1","value":0.5036231,"start":133410,"end":133538,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.5036231,"start":133540,"end":134168,"thread_id":3779911}
+{"fut_name":"fut0","value":0.41437495,"start":134170,"end":134298,"thread_id":3779911}
+{"fut_name":"fut1","value":0.41437495,"start":134300,"end":134428,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.41437495,"start":134429,"end":135059,"thread_id":3779911}
+{"fut_name":"fut0","value":0.3209433,"start":135061,"end":135190,"thread_id":3779911}
+{"fut_name":"fut1","value":0.3209433,"start":135191,"end":135320,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.3209433,"start":135321,"end":135950,"thread_id":3779911}
+{"fut_name":"fut0","value":0.22427075,"start":135952,"end":136080,"thread_id":3779911}
+{"fut_name":"fut1","value":0.22427075,"start":136081,"end":136210,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.22427075,"start":136211,"end":136841,"thread_id":3779911}
+{"fut_name":"fut0","value":0.12533261,"start":136842,"end":136971,"thread_id":3779911}
+{"fut_name":"fut1","value":0.12533261,"start":136972,"end":137100,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.12533261,"start":137102,"end":137730,"thread_id":3779911}
+{"fut_name":"fut0","value":0.025129812,"start":137732,"end":137860,"thread_id":3779911}
+{"fut_name":"fut1","value":0.025129812,"start":137861,"end":137990,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.025129812,"start":137991,"end":138632,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.07532675,"start":138640,"end":138779,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.07532675,"start":138782,"end":138916,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.07532675,"start":138920,"end":139554,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.1750236,"start":139559,"end":139693,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.1750236,"start":139696,"end":139831,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.1750236,"start":139834,"end":140491,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.27295214,"start":140513,"end":140652,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.27295214,"start":140654,"end":140789,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.27295214,"start":140791,"end":141426,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.36812532,"start":141432,"end":141566,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.36812532,"start":141571,"end":141705,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.36812532,"start":141707,"end":142372,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.4595803,"start":142375,"end":142509,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.4595803,"start":142520,"end":142654,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.4595803,"start":142657,"end":143291,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.54639447,"start":143294,"end":143428,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.54639447,"start":143430,"end":143564,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.54639447,"start":143567,"end":144212,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.6276912,"start":144216,"end":144354,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.6276912,"start":144357,"end":144498,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.6276912,"start":144500,"end":145152,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.7026496,"start":145158,"end":145295,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.7026496,"start":145297,"end":145431,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.7026496,"start":145434,"end":146068,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.7705139,"start":146071,"end":146291,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.7705139,"start":146294,"end":146538,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.7705139,"start":146541,"end":147175,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.83059627,"start":147178,"end":147313,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.83059627,"start":147318,"end":147452,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.83059627,"start":147455,"end":148100,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8822914,"start":148104,"end":148238,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8822914,"start":148240,"end":148374,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8822914,"start":148377,"end":149011,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9250772,"start":149014,"end":149148,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9250772,"start":149151,"end":149285,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9250772,"start":149287,"end":149955,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9585217,"start":149960,"end":150095,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9585217,"start":150098,"end":150234,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9585217,"start":150237,"end":150873,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9822875,"start":150877,"end":151013,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9822875,"start":151016,"end":151152,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9822875,"start":151155,"end":151809,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9961337,"start":151908,"end":152046,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9961337,"start":152050,"end":152189,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9961337,"start":152193,"end":152832,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.999921,"start":152842,"end":152981,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.999921,"start":152985,"end":153123,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.999921,"start":153127,"end":153804,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.99361134,"start":153809,"end":153948,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.99361134,"start":153952,"end":154091,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.99361134,"start":154095,"end":154734,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.97726816,"start":154739,"end":154878,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.97726816,"start":154882,"end":155021,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.97726816,"start":155025,"end":155673,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.95105666,"start":155678,"end":155817,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.95105666,"start":155821,"end":155960,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.95105666,"start":155964,"end":156603,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9152407,"start":156608,"end":156747,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9152407,"start":156751,"end":156889,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9152407,"start":156893,"end":157675,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.87018335,"start":157682,"end":157824,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.87018335,"start":157830,"end":157974,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.87018335,"start":157979,"end":158623,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.816339,"start":158630,"end":158774,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.816339,"start":158779,"end":158924,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.816339,"start":158929,"end":159600,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.7542513,"start":159607,"end":159751,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.7542513,"start":159757,"end":159901,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.7542513,"start":159906,"end":160558,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.6845473,"start":160607,"end":161281,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.6845473,"start":161286,"end":161539,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.6845473,"start":161544,"end":162193,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.6079293,"start":162200,"end":162345,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.6079293,"start":162350,"end":162495,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.6079293,"start":162500,"end":163144,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.52517384,"start":163151,"end":163295,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.52517384,"start":163301,"end":163445,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.52517384,"start":163453,"end":164097,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.43711522,"start":164104,"end":164245,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.43711522,"start":164250,"end":164394,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.43711522,"start":164400,"end":165044,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.34464267,"start":165051,"end":165195,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.34464267,"start":165201,"end":165345,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.34464267,"start":165350,"end":165995,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.24868995,"start":166002,"end":166154,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.24868995,"start":166160,"end":166302,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.24868995,"start":166307,"end":166951,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.15022598,"start":166958,"end":167102,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.15022598,"start":167107,"end":167251,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.15022598,"start":167257,"end":167901,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.050243147,"start":167908,"end":168052,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.050243147,"start":168057,"end":168201,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.050243147,"start":168206,"end":168847,"thread_id":3779911}
+{"fut_name":"fut0","value":0.050245147,"start":168854,"end":168998,"thread_id":3779911}
+{"fut_name":"fut1","value":0.050245147,"start":169004,"end":169151,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.050245147,"start":169157,"end":169801,"thread_id":3779911}
+{"fut_name":"fut0","value":0.15022607,"start":169808,"end":169952,"thread_id":3779911}
+{"fut_name":"fut1","value":0.15022607,"start":169957,"end":170101,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.15022607,"start":170106,"end":170751,"thread_id":3779911}
+{"fut_name":"fut0","value":0.24869004,"start":170758,"end":170938,"thread_id":3779911}
+{"fut_name":"fut1","value":0.24869004,"start":170944,"end":171088,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.24869004,"start":171093,"end":171737,"thread_id":3779911}
+{"fut_name":"fut0","value":0.34464276,"start":171744,"end":171888,"thread_id":3779911}
+{"fut_name":"fut1","value":0.34464276,"start":171893,"end":172037,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.34464276,"start":172042,"end":172686,"thread_id":3779911}
+{"fut_name":"fut0","value":0.4371153,"start":172693,"end":172837,"thread_id":3779911}
+{"fut_name":"fut1","value":0.4371153,"start":172843,"end":172984,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.4371153,"start":172989,"end":173633,"thread_id":3779911}
+{"fut_name":"fut0","value":0.5251755,"start":173640,"end":173784,"thread_id":3779911}
+{"fut_name":"fut1","value":0.5251755,"start":173791,"end":173935,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.5251755,"start":173941,"end":174585,"thread_id":3779911}
+{"fut_name":"fut0","value":0.60793084,"start":174592,"end":174736,"thread_id":3779911}
+{"fut_name":"fut1","value":0.60793084,"start":174741,"end":174885,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.60793084,"start":174890,"end":175539,"thread_id":3779911}
+{"fut_name":"fut0","value":0.68454736,"start":175546,"end":175798,"thread_id":3779911}
+{"fut_name":"fut1","value":0.68454736,"start":175804,"end":175956,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.68454736,"start":175962,"end":176899,"thread_id":3779911}
+{"fut_name":"fut0","value":0.75425136,"start":176906,"end":177052,"thread_id":3779911}
+{"fut_name":"fut1","value":0.75425136,"start":177057,"end":177201,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.75425136,"start":177206,"end":177848,"thread_id":3779911}
+{"fut_name":"fut0","value":0.8163391,"start":177855,"end":177999,"thread_id":3779911}
+{"fut_name":"fut1","value":0.8163391,"start":178004,"end":180475,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.8163391,"start":180477,"end":181108,"thread_id":3779911}
+{"fut_name":"fut0","value":0.87018436,"start":181110,"end":181239,"thread_id":3779911}
+{"fut_name":"fut1","value":0.87018436,"start":181241,"end":181371,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.87018436,"start":181372,"end":182002,"thread_id":3779911}
+{"fut_name":"fut0","value":0.91524154,"start":182004,"end":182135,"thread_id":3779911}
+{"fut_name":"fut1","value":0.91524154,"start":182136,"end":182267,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.91524154,"start":182268,"end":182908,"thread_id":3779911}
+{"fut_name":"fut0","value":0.95105666,"start":182917,"end":183056,"thread_id":3779911}
+{"fut_name":"fut1","value":0.95105666,"start":183059,"end":183193,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.95105666,"start":183195,"end":183829,"thread_id":3779911}
+{"fut_name":"fut0","value":0.97726816,"start":183833,"end":183967,"thread_id":3779911}
+{"fut_name":"fut1","value":0.97726816,"start":183969,"end":184135,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.97726816,"start":184137,"end":184771,"thread_id":3779911}
+{"fut_name":"fut0","value":0.99361134,"start":184774,"end":184908,"thread_id":3779911}
+{"fut_name":"fut1","value":0.99361134,"start":184911,"end":185045,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.99361134,"start":185050,"end":185684,"thread_id":3779911}
+{"fut_name":"fut0","value":0.999921,"start":185687,"end":185821,"thread_id":3779911}
+{"fut_name":"fut1","value":0.999921,"start":185824,"end":185972,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.999921,"start":185975,"end":186618,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9961335,"start":186625,"end":186764,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9961335,"start":186767,"end":186902,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9961335,"start":186906,"end":187541,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9822871,"start":187545,"end":187681,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9822871,"start":187684,"end":187852,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9822871,"start":187856,"end":188492,"thread_id":3779911}
+{"fut_name":"fut0","value":0.95852166,"start":188496,"end":188631,"thread_id":3779911}
+{"fut_name":"fut1","value":0.95852166,"start":188634,"end":188770,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.95852166,"start":188773,"end":189409,"thread_id":3779911}
+{"fut_name":"fut0","value":0.92507714,"start":189413,"end":189549,"thread_id":3779911}
+{"fut_name":"fut1","value":0.92507714,"start":189552,"end":189695,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.92507714,"start":189698,"end":190334,"thread_id":3779911}
+{"fut_name":"fut0","value":0.8822913,"start":190338,"end":190474,"thread_id":3779911}
+{"fut_name":"fut1","value":0.8822913,"start":190477,"end":190613,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.8822913,"start":190616,"end":191252,"thread_id":3779911}
+{"fut_name":"fut0","value":0.83059514,"start":191256,"end":191392,"thread_id":3779911}
+{"fut_name":"fut1","value":0.83059514,"start":191395,"end":191571,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.83059514,"start":191574,"end":192210,"thread_id":3779911}
+{"fut_name":"fut0","value":0.77051264,"start":192214,"end":192350,"thread_id":3779911}
+{"fut_name":"fut1","value":0.77051264,"start":192353,"end":192489,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.77051264,"start":192492,"end":193128,"thread_id":3779911}
+{"fut_name":"fut0","value":0.70264953,"start":193132,"end":193268,"thread_id":3779911}
+{"fut_name":"fut1","value":0.70264953,"start":193271,"end":193482,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.70264953,"start":193486,"end":194121,"thread_id":3779911}
+{"fut_name":"fut0","value":0.62769115,"start":194125,"end":194261,"thread_id":3779911}
+{"fut_name":"fut1","value":0.62769115,"start":194264,"end":194399,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.62769115,"start":194403,"end":195038,"thread_id":3779911}
+{"fut_name":"fut0","value":0.5463944,"start":195042,"end":195232,"thread_id":3779911}
+{"fut_name":"fut1","value":0.5463944,"start":195236,"end":195375,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.5463944,"start":195379,"end":196018,"thread_id":3779911}
+{"fut_name":"fut0","value":0.4595802,"start":196023,"end":196162,"thread_id":3779911}
+{"fut_name":"fut1","value":0.4595802,"start":196166,"end":196305,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.4595802,"start":196311,"end":196959,"thread_id":3779911}
+{"fut_name":"fut0","value":0.36812347,"start":196964,"end":197103,"thread_id":3779911}
+{"fut_name":"fut1","value":0.36812347,"start":197107,"end":197245,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.36812347,"start":197249,"end":197888,"thread_id":3779911}
+{"fut_name":"fut0","value":0.27295113,"start":197893,"end":198032,"thread_id":3779911}
+{"fut_name":"fut1","value":0.27295113,"start":198036,"end":198175,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.27295113,"start":198179,"end":198921,"thread_id":3779911}
+{"fut_name":"fut0","value":0.17502257,"start":198926,"end":199064,"thread_id":3779911}
+{"fut_name":"fut1","value":0.17502257,"start":199067,"end":199206,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.17502257,"start":199210,"end":199857,"thread_id":3779911}
+{"fut_name":"fut0","value":0.07532665,"start":199862,"end":200004,"thread_id":3779911}
+{"fut_name":"fut1","value":0.07532665,"start":200008,"end":200147,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.07532665,"start":200151,"end":200808,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.025129907,"start":200815,"end":200959,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.025129907,"start":200964,"end":201108,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.025129907,"start":201114,"end":201758,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.1253346,"start":201765,"end":201909,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.1253346,"start":201914,"end":202058,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.1253346,"start":202063,"end":202750,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.22427177,"start":202757,"end":202901,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.22427177,"start":202907,"end":203051,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.22427177,"start":203056,"end":203700,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.32094428,"start":203707,"end":203851,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.32094428,"start":203857,"end":204008,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.32094428,"start":204014,"end":204785,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.4143759,"start":204792,"end":204936,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.4143759,"start":204941,"end":205085,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.4143759,"start":205091,"end":205735,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.50362325,"start":205742,"end":205886,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.50362325,"start":205891,"end":206035,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.50362325,"start":206040,"end":206685,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.587785,"start":206691,"end":206862,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.587785,"start":206869,"end":207013,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.587785,"start":207018,"end":207739,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.6660128,"start":207746,"end":208322,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.6660128,"start":208327,"end":208511,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.6660128,"start":208516,"end":209156,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.7375137,"start":209163,"end":209307,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.7375137,"start":209313,"end":209457,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.7375137,"start":209463,"end":210118,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8015673,"start":210229,"end":210372,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8015673,"start":210377,"end":210521,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8015673,"start":210527,"end":211170,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8575268,"start":211177,"end":211321,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8575268,"start":211326,"end":211470,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8575268,"start":211475,"end":212120,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.904827,"start":212127,"end":212271,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.904827,"start":212276,"end":212420,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.904827,"start":212426,"end":213070,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.942991,"start":213076,"end":213217,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.942991,"start":213223,"end":213367,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.942991,"start":213372,"end":214016,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.971632,"start":214023,"end":214167,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.971632,"start":214172,"end":214317,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.971632,"start":214322,"end":214966,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9904615,"start":214973,"end":215117,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9904615,"start":215122,"end":215263,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9904615,"start":215269,"end":215920,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9992895,"start":215927,"end":216188,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9992895,"start":216193,"end":216337,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9992895,"start":216343,"end":216987,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9980267,"start":216994,"end":217138,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9980267,"start":217143,"end":217284,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9980267,"start":217290,"end":217937,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.986686,"start":217970,"end":218114,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.986686,"start":218119,"end":218263,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.986686,"start":218268,"end":218802,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9653813,"start":218809,"end":218956,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9653813,"start":218961,"end":219105,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9653813,"start":219110,"end":219806,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9343286,"start":219813,"end":219957,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9343286,"start":219962,"end":220107,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9343286,"start":220112,"end":220756,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.89384115,"start":220763,"end":220907,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.89384115,"start":220912,"end":221056,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.89384115,"start":221062,"end":221837,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.84432775,"start":221844,"end":221987,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.84432775,"start":221992,"end":222136,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.84432775,"start":222142,"end":222786,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.78628844,"start":222793,"end":222945,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.78628844,"start":222950,"end":223100,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.78628844,"start":223106,"end":224071,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.7203093,"start":224079,"end":224223,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.7203093,"start":224229,"end":224373,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.7203093,"start":224378,"end":225032,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.6470551,"start":225039,"end":226217,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.6470551,"start":226222,"end":226373,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.6470551,"start":226378,"end":227022,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.56726825,"start":227029,"end":227174,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.56726825,"start":227179,"end":227331,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.56726825,"start":227336,"end":228228,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.48175326,"start":228235,"end":228387,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.48175326,"start":228391,"end":228537,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.48175326,"start":228543,"end":229187,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.39137354,"start":229194,"end":229338,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.39137354,"start":229344,"end":229488,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.39137354,"start":229497,"end":230140,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.29704177,"start":230147,"end":230291,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.29704177,"start":230296,"end":230440,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.29704177,"start":230446,"end":231090,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.19970863,"start":231097,"end":231241,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.19970863,"start":231246,"end":231390,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.19970863,"start":231395,"end":232039,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.100360684,"start":232046,"end":232209,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.100360684,"start":232215,"end":232359,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.100360684,"start":232364,"end":233016,"thread_id":3779911}
+{"fut_name":"fut0","value":6.993822e-7,"start":233023,"end":233286,"thread_id":3779911}
+{"fut_name":"fut1","value":6.993822e-7,"start":233292,"end":233436,"thread_id":3779911}
+{"fut_name":"high cpu","value":6.993822e-7,"start":233441,"end":234085,"thread_id":3779911}
+{"fut_name":"fut0","value":0.10036207,"start":234092,"end":234233,"thread_id":3779911}
+{"fut_name":"fut1","value":0.10036207,"start":234238,"end":234382,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.10036207,"start":234388,"end":235032,"thread_id":3779911}
+{"fut_name":"fut0","value":0.19971,"start":235039,"end":235183,"thread_id":3779911}
+{"fut_name":"fut1","value":0.19971,"start":235188,"end":235333,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.19971,"start":235338,"end":235993,"thread_id":3779911}
+{"fut_name":"fut0","value":0.29704127,"start":236000,"end":236147,"thread_id":3779911}
+{"fut_name":"fut1","value":0.29704127,"start":236152,"end":236297,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.29704127,"start":236302,"end":236946,"thread_id":3779911}
+{"fut_name":"fut0","value":0.39137483,"start":236953,"end":237107,"thread_id":3779911}
+{"fut_name":"fut1","value":0.39137483,"start":237112,"end":238038,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.39137483,"start":238043,"end":238693,"thread_id":3779911}
+{"fut_name":"fut0","value":0.48175448,"start":238700,"end":239590,"thread_id":3779911}
+{"fut_name":"fut1","value":0.48175448,"start":239596,"end":239741,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.48175448,"start":239746,"end":240390,"thread_id":3779911}
+{"fut_name":"fut0","value":0.56726944,"start":240398,"end":240542,"thread_id":3779911}
+{"fut_name":"fut1","value":0.56726944,"start":240547,"end":240746,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.56726944,"start":240752,"end":241396,"thread_id":3779911}
+{"fut_name":"fut0","value":0.64705616,"start":241403,"end":241547,"thread_id":3779911}
+{"fut_name":"fut1","value":0.64705616,"start":241558,"end":241702,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.64705616,"start":241707,"end":242351,"thread_id":3779911}
+{"fut_name":"fut0","value":0.72030896,"start":242358,"end":242502,"thread_id":3779911}
+{"fut_name":"fut1","value":0.72030896,"start":242507,"end":242651,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.72030896,"start":242657,"end":243301,"thread_id":3779911}
+{"fut_name":"fut0","value":0.78628933,"start":243308,"end":243452,"thread_id":3779911}
+{"fut_name":"fut1","value":0.78628933,"start":243457,"end":243601,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.78628933,"start":243607,"end":244251,"thread_id":3779911}
+{"fut_name":"fut0","value":0.8443285,"start":244258,"end":244402,"thread_id":3779911}
+{"fut_name":"fut1","value":0.8443285,"start":244407,"end":244551,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.8443285,"start":244556,"end":245208,"thread_id":3779911}
+{"fut_name":"fut0","value":0.89384174,"start":245215,"end":245516,"thread_id":3779911}
+{"fut_name":"fut1","value":0.89384174,"start":245522,"end":245666,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.89384174,"start":245671,"end":247547,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9343291,"start":247556,"end":247952,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9343291,"start":247957,"end":248102,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9343291,"start":248107,"end":248751,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9653817,"start":248758,"end":248902,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9653817,"start":248908,"end":249052,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9653817,"start":249057,"end":249700,"thread_id":3779911}
+{"fut_name":"fut0","value":0.98668593,"start":249708,"end":249851,"thread_id":3779911}
+{"fut_name":"fut1","value":0.98668593,"start":249857,"end":250001,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.98668593,"start":250006,"end":250658,"thread_id":3779911}
+{"fut_name":"fut0","value":0.99802685,"start":250665,"end":250818,"thread_id":3779911}
+{"fut_name":"fut1","value":0.99802685,"start":250822,"end":250965,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.99802685,"start":250970,"end":251614,"thread_id":3779911}
+{"fut_name":"fut0","value":0.99928945,"start":251621,"end":251762,"thread_id":3779911}
+{"fut_name":"fut1","value":0.99928945,"start":251768,"end":251912,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.99928945,"start":251917,"end":252561,"thread_id":3779911}
+{"fut_name":"fut0","value":0.99046135,"start":252568,"end":252712,"thread_id":3779911}
+{"fut_name":"fut1","value":0.99046135,"start":252718,"end":252862,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.99046135,"start":252867,"end":253511,"thread_id":3779911}
+{"fut_name":"fut0","value":0.97163165,"start":253547,"end":253691,"thread_id":3779911}
+{"fut_name":"fut1","value":0.97163165,"start":253696,"end":253838,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.97163165,"start":253844,"end":254495,"thread_id":3779911}
+{"fut_name":"fut0","value":0.94299054,"start":254502,"end":255559,"thread_id":3779911}
+{"fut_name":"fut1","value":0.94299054,"start":255565,"end":255709,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.94299054,"start":255715,"end":256486,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9048264,"start":256494,"end":256637,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9048264,"start":256642,"end":256786,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9048264,"start":256792,"end":257436,"thread_id":3779911}
+{"fut_name":"fut0","value":0.857526,"start":257443,"end":257586,"thread_id":3779911}
+{"fut_name":"fut1","value":0.857526,"start":257592,"end":257739,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.857526,"start":257744,"end":258396,"thread_id":3779911}
+{"fut_name":"fut0","value":0.8015665,"start":258404,"end":258548,"thread_id":3779911}
+{"fut_name":"fut1","value":0.8015665,"start":258553,"end":258697,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.8015665,"start":258703,"end":259347,"thread_id":3779911}
+{"fut_name":"fut0","value":0.73751277,"start":259354,"end":259498,"thread_id":3779911}
+{"fut_name":"fut1","value":0.73751277,"start":259503,"end":259647,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.73751277,"start":259652,"end":260297,"thread_id":3779911}
+{"fut_name":"fut0","value":0.66601175,"start":260303,"end":260444,"thread_id":3779911}
+{"fut_name":"fut1","value":0.66601175,"start":260450,"end":260594,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.66601175,"start":260599,"end":261243,"thread_id":3779911}
+{"fut_name":"fut0","value":0.5877854,"start":261250,"end":261394,"thread_id":3779911}
+{"fut_name":"fut1","value":0.5877854,"start":261400,"end":261544,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.5877854,"start":261549,"end":262202,"thread_id":3779911}
+{"fut_name":"fut0","value":0.503622,"start":262209,"end":262351,"thread_id":3779911}
+{"fut_name":"fut1","value":0.503622,"start":262356,"end":262499,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.503622,"start":262504,"end":263148,"thread_id":3779911}
+{"fut_name":"fut0","value":0.41437465,"start":263155,"end":263299,"thread_id":3779911}
+{"fut_name":"fut1","value":0.41437465,"start":263304,"end":263448,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.41437465,"start":263454,"end":264107,"thread_id":3779911}
+{"fut_name":"fut0","value":0.32094294,"start":264114,"end":264358,"thread_id":3779911}
+{"fut_name":"fut1","value":0.32094294,"start":264363,"end":264529,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.32094294,"start":264538,"end":265197,"thread_id":3779911}
+{"fut_name":"fut0","value":0.22427042,"start":265205,"end":265353,"thread_id":3779911}
+{"fut_name":"fut1","value":0.22427042,"start":265358,"end":265503,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.22427042,"start":265508,"end":266153,"thread_id":3779911}
+{"fut_name":"fut0","value":0.12533322,"start":266160,"end":266307,"thread_id":3779911}
+{"fut_name":"fut1","value":0.12533322,"start":266312,"end":266457,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.12533322,"start":266462,"end":267108,"thread_id":3779911}
+{"fut_name":"fut0","value":0.025130415,"start":267115,"end":267259,"thread_id":3779911}
+{"fut_name":"fut1","value":0.025130415,"start":267264,"end":267409,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.025130415,"start":267414,"end":268058,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.07532805,"start":268065,"end":268209,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.07532805,"start":268214,"end":268358,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.07532805,"start":268364,"end":269008,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.17502396,"start":269015,"end":269159,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.17502396,"start":269165,"end":269347,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.17502396,"start":269352,"end":269995,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.2729525,"start":270002,"end":270146,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.2729525,"start":270151,"end":270296,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.2729525,"start":270301,"end":271507,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.36812478,"start":271515,"end":271659,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.36812478,"start":271664,"end":271808,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.36812478,"start":271814,"end":272458,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.45957977,"start":272465,"end":272609,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.45957977,"start":272614,"end":272758,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.45957977,"start":272763,"end":273407,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.5463956,"start":273414,"end":273555,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.5463956,"start":273561,"end":273715,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.5463956,"start":273720,"end":274366,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.6276922,"start":274373,"end":274517,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.6276922,"start":274522,"end":274666,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.6276922,"start":274672,"end":275316,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.70265055,"start":275323,"end":275467,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.70265055,"start":275474,"end":275617,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.70265055,"start":275622,"end":276266,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.77051353,"start":276273,"end":276417,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.77051353,"start":276423,"end":276567,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.77051353,"start":276572,"end":277216,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8305959,"start":277223,"end":277367,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8305959,"start":277372,"end":277516,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8305959,"start":277521,"end":278162,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8822911,"start":278169,"end":278313,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8822911,"start":278318,"end":278462,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8822911,"start":278468,"end":279112,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9250777,"start":279119,"end":279263,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9250777,"start":279268,"end":279412,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9250777,"start":279418,"end":280071,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9585221,"start":280078,"end":280413,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9585221,"start":280418,"end":280562,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9585221,"start":280567,"end":281212,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9822874,"start":281218,"end":281362,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9822874,"start":281368,"end":281512,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9822874,"start":281518,"end":288107,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9961336,"start":288133,"end":288283,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9961336,"start":288289,"end":288436,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9961336,"start":288442,"end":289083,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.999921,"start":289090,"end":289234,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.999921,"start":289239,"end":289383,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.999921,"start":289389,"end":290027,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.99361116,"start":290030,"end":290164,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.99361116,"start":290167,"end":290301,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.99361116,"start":290303,"end":290937,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.97726786,"start":290941,"end":291156,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.97726786,"start":291159,"end":291295,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.97726786,"start":291298,"end":291934,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.95105624,"start":291942,"end":292078,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.95105624,"start":292081,"end":292217,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.95105624,"start":292220,"end":292862,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.91524094,"start":292866,"end":293002,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.91524094,"start":293005,"end":293141,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.91524094,"start":293144,"end":293788,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.87018365,"start":293792,"end":293968,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.87018365,"start":293971,"end":294111,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.87018365,"start":294114,"end":294750,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8163393,"start":294754,"end":294899,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8163393,"start":294903,"end":295042,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8163393,"start":295046,"end":295685,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.75425047,"start":295690,"end":295829,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.75425047,"start":295833,"end":295972,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.75425047,"start":295976,"end":296625,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.68454635,"start":296630,"end":296769,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.68454635,"start":296773,"end":296999,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.68454635,"start":297003,"end":297638,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.60792977,"start":297642,"end":297778,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.60792977,"start":297781,"end":297917,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.60792977,"start":297920,"end":298582,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.5251743,"start":298587,"end":298726,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.5251743,"start":298730,"end":298869,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.5251743,"start":298872,"end":299511,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.43711576,"start":299516,"end":299655,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.43711576,"start":299660,"end":299799,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.43711576,"start":299802,"end":300451,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.34464145,"start":300456,"end":300595,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.34464145,"start":300598,"end":300737,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.34464145,"start":300741,"end":302151,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.24868868,"start":302155,"end":302292,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.24868868,"start":302295,"end":302450,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.24868868,"start":302461,"end":303105,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.15022469,"start":303112,"end":303256,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.15022469,"start":303262,"end":303406,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.15022469,"start":303411,"end":304152,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.05024375,"start":304157,"end":304295,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.05024375,"start":304299,"end":304494,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.05024375,"start":304498,"end":305137,"thread_id":3779911}
+{"fut_name":"fut0","value":0.050244544,"start":305142,"end":305281,"thread_id":3779911}
+{"fut_name":"fut1","value":0.050244544,"start":305286,"end":306327,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.050244544,"start":306331,"end":306998,"thread_id":3779911}
+{"fut_name":"fut0","value":0.15022548,"start":307003,"end":307211,"thread_id":3779911}
+{"fut_name":"fut1","value":0.15022548,"start":307215,"end":307354,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.15022548,"start":307358,"end":308369,"thread_id":3779911}
+{"fut_name":"fut0","value":0.24869129,"start":308375,"end":308961,"thread_id":3779911}
+{"fut_name":"fut1","value":0.24869129,"start":308965,"end":309105,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.24869129,"start":309108,"end":309760,"thread_id":3779911}
+{"fut_name":"fut0","value":0.34464398,"start":309766,"end":309985,"thread_id":3779911}
+{"fut_name":"fut1","value":0.34464398,"start":309988,"end":310128,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.34464398,"start":310131,"end":310837,"thread_id":3779911}
+{"fut_name":"fut0","value":0.43711647,"start":310843,"end":310983,"thread_id":3779911}
+{"fut_name":"fut1","value":0.43711647,"start":310987,"end":311128,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.43711647,"start":311131,"end":311771,"thread_id":3779911}
+{"fut_name":"fut0","value":0.52517503,"start":311776,"end":311915,"thread_id":3779911}
+{"fut_name":"fut1","value":0.52517503,"start":311918,"end":312058,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.52517503,"start":312061,"end":312704,"thread_id":3779911}
+{"fut_name":"fut0","value":0.60793036,"start":312710,"end":312852,"thread_id":3779911}
+{"fut_name":"fut1","value":0.60793036,"start":312855,"end":312991,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.60793036,"start":312994,"end":313930,"thread_id":3779911}
+{"fut_name":"fut0","value":0.6845483,"start":313958,"end":314105,"thread_id":3779911}
+{"fut_name":"fut1","value":0.6845483,"start":314108,"end":314247,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.6845483,"start":314249,"end":314885,"thread_id":3779911}
+{"fut_name":"fut0","value":0.754251,"start":314889,"end":315026,"thread_id":3779911}
+{"fut_name":"fut1","value":0.754251,"start":315036,"end":315171,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.754251,"start":315173,"end":315831,"thread_id":3779911}
+{"fut_name":"fut0","value":0.8163398,"start":315836,"end":315977,"thread_id":3779911}
+{"fut_name":"fut1","value":0.8163398,"start":315980,"end":316119,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.8163398,"start":316123,"end":316855,"thread_id":3779911}
+{"fut_name":"fut0","value":0.870185,"start":316860,"end":317001,"thread_id":3779911}
+{"fut_name":"fut1","value":0.870185,"start":317004,"end":317499,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.870185,"start":317503,"end":318746,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9152413,"start":318754,"end":319100,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9152413,"start":319104,"end":319268,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9152413,"start":319271,"end":319937,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9510571,"start":319943,"end":320083,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9510571,"start":320086,"end":320224,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9510571,"start":320228,"end":321020,"thread_id":3779911}
+{"fut_name":"fut0","value":0.97726804,"start":321025,"end":321245,"thread_id":3779911}
+{"fut_name":"fut1","value":0.97726804,"start":321249,"end":321389,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.97726804,"start":321393,"end":322032,"thread_id":3779911}
+{"fut_name":"fut0","value":0.99361145,"start":322037,"end":322176,"thread_id":3779911}
+{"fut_name":"fut1","value":0.99361145,"start":322181,"end":322320,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.99361145,"start":322324,"end":322891,"thread_id":3779911}
+{"fut_name":"fut0","value":0.999921,"start":322896,"end":323035,"thread_id":3779911}
+{"fut_name":"fut1","value":0.999921,"start":323039,"end":323178,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.999921,"start":323182,"end":323821,"thread_id":3779911}
+{"fut_name":"fut0","value":0.99613357,"start":323826,"end":323965,"thread_id":3779911}
+{"fut_name":"fut1","value":0.99613357,"start":323968,"end":324107,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.99613357,"start":324111,"end":324760,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9822869,"start":324766,"end":324905,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9822869,"start":324909,"end":325048,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9822869,"start":325052,"end":325691,"thread_id":3779911}
+{"fut_name":"fut0","value":0.95852184,"start":325696,"end":325835,"thread_id":3779911}
+{"fut_name":"fut1","value":0.95852184,"start":325838,"end":325977,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.95852184,"start":325981,"end":326711,"thread_id":3779911}
+{"fut_name":"fut0","value":0.92507666,"start":326735,"end":326874,"thread_id":3779911}
+{"fut_name":"fut1","value":0.92507666,"start":326878,"end":327018,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.92507666,"start":327022,"end":327662,"thread_id":3779911}
+{"fut_name":"fut0","value":0.8822916,"start":327667,"end":327806,"thread_id":3779911}
+{"fut_name":"fut1","value":0.8822916,"start":327810,"end":327949,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.8822916,"start":327952,"end":328646,"thread_id":3779911}
+{"fut_name":"fut0","value":0.8305955,"start":328651,"end":328832,"thread_id":3779911}
+{"fut_name":"fut1","value":0.8305955,"start":328836,"end":328975,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.8305955,"start":328979,"end":329618,"thread_id":3779911}
+{"fut_name":"fut0","value":0.7705118,"start":329623,"end":329762,"thread_id":3779911}
+{"fut_name":"fut1","value":0.7705118,"start":329766,"end":329905,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.7705118,"start":329909,"end":330576,"thread_id":3779911}
+{"fut_name":"fut0","value":0.70264995,"start":330581,"end":330720,"thread_id":3779911}
+{"fut_name":"fut1","value":0.70264995,"start":330724,"end":330863,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.70264995,"start":330867,"end":331506,"thread_id":3779911}
+{"fut_name":"fut0","value":0.62769014,"start":331511,"end":331650,"thread_id":3779911}
+{"fut_name":"fut1","value":0.62769014,"start":331653,"end":331813,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.62769014,"start":331817,"end":332580,"thread_id":3779911}
+{"fut_name":"fut0","value":0.5463949,"start":332587,"end":332777,"thread_id":3779911}
+{"fut_name":"fut1","value":0.5463949,"start":332783,"end":332922,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.5463949,"start":332927,"end":334520,"thread_id":3779911}
+{"fut_name":"fut0","value":0.45957905,"start":334528,"end":334673,"thread_id":3779911}
+{"fut_name":"fut1","value":0.45957905,"start":334678,"end":334822,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.45957905,"start":334827,"end":335471,"thread_id":3779911}
+{"fut_name":"fut0","value":0.36812225,"start":335478,"end":335622,"thread_id":3779911}
+{"fut_name":"fut1","value":0.36812225,"start":335628,"end":335772,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.36812225,"start":335777,"end":336421,"thread_id":3779911}
+{"fut_name":"fut0","value":0.27295172,"start":336429,"end":336570,"thread_id":3779911}
+{"fut_name":"fut1","value":0.27295172,"start":336575,"end":336719,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.27295172,"start":336724,"end":337534,"thread_id":3779911}
+{"fut_name":"fut0","value":0.17502129,"start":337540,"end":337684,"thread_id":3779911}
+{"fut_name":"fut1","value":0.17502129,"start":337690,"end":337834,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.17502129,"start":337844,"end":338488,"thread_id":3779911}
+{"fut_name":"fut0","value":0.075327255,"start":338495,"end":338636,"thread_id":3779911}
+{"fut_name":"fut1","value":0.075327255,"start":338641,"end":338824,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.075327255,"start":338830,"end":339473,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.02513121,"start":339480,"end":339624,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.02513121,"start":339629,"end":339773,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.02513121,"start":339778,"end":340422,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.12533212,"start":340429,"end":340573,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.12533212,"start":340578,"end":340728,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.12533212,"start":340734,"end":341378,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.22427118,"start":341385,"end":341529,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.22427118,"start":341535,"end":341679,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.22427118,"start":341684,"end":342328,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.3209455,"start":342335,"end":342479,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.3209455,"start":342484,"end":342629,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.3209455,"start":342634,"end":343275,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.41437536,"start":343282,"end":343507,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.41437536,"start":343513,"end":343655,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.41437536,"start":343661,"end":344305,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.5036244,"start":344312,"end":344456,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.5036244,"start":344461,"end":344605,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.5036244,"start":344611,"end":345272,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.5877845,"start":345279,"end":345423,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.5877845,"start":345428,"end":345572,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.5877845,"start":345577,"end":346221,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.66601235,"start":346228,"end":346372,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.66601235,"start":346377,"end":346521,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.66601235,"start":346527,"end":347171,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.7375146,"start":347178,"end":347319,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.7375146,"start":347325,"end":347469,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.7375146,"start":347474,"end":348118,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.80156696,"start":348125,"end":348305,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.80156696,"start":348312,"end":348949,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.80156696,"start":348956,"end":349598,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.85752743,"start":349605,"end":349750,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.85752743,"start":349755,"end":349899,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.85752743,"start":349905,"end":350591,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9048267,"start":350598,"end":351029,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9048267,"start":351034,"end":351178,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9048267,"start":351184,"end":351825,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.94299084,"start":351832,"end":351976,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.94299084,"start":351982,"end":352127,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.94299084,"start":352132,"end":352777,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9716323,"start":352783,"end":352967,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9716323,"start":352973,"end":353217,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9716323,"start":353222,"end":353874,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.99046147,"start":353936,"end":354078,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.99046147,"start":354083,"end":354228,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.99046147,"start":354233,"end":354877,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9992896,"start":354884,"end":355028,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9992896,"start":355033,"end":355178,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9992896,"start":355183,"end":355827,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9980268,"start":355834,"end":356231,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9980268,"start":356237,"end":356379,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9980268,"start":356383,"end":357026,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9866858,"start":357033,"end":357178,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9866858,"start":357183,"end":357328,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9866858,"start":357333,"end":357995,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.96538097,"start":358002,"end":358146,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.96538097,"start":358151,"end":358295,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.96538097,"start":358301,"end":358954,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9343288,"start":358962,"end":359246,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9343288,"start":359251,"end":369358,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9343288,"start":369361,"end":369998,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.89384055,"start":370015,"end":370151,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.89384055,"start":370154,"end":370289,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.89384055,"start":370292,"end":370937,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8443281,"start":370941,"end":371076,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8443281,"start":371079,"end":371214,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8443281,"start":371217,"end":371853,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.78628767,"start":371857,"end":371992,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.78628767,"start":371995,"end":372130,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.78628767,"start":372133,"end":372769,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.72030973,"start":372772,"end":372907,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.72030973,"start":372908,"end":373042,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.72030973,"start":373044,"end":373677,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.6470555,"start":373679,"end":373812,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.6470555,"start":373814,"end":373946,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.6470555,"start":373948,"end":374581,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.5672672,"start":374584,"end":374717,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.5672672,"start":374719,"end":374854,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.5672672,"start":374856,"end":375488,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.48175377,"start":375491,"end":375622,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.48175377,"start":375624,"end":375754,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.48175377,"start":375757,"end":376388,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.39137232,"start":376390,"end":376524,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.39137232,"start":376526,"end":376659,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.39137232,"start":376661,"end":377303,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.29704234,"start":377305,"end":377436,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.29704234,"start":377437,"end":377569,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.29704234,"start":377571,"end":378203,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.19970922,"start":378205,"end":378336,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.19970922,"start":378338,"end":378486,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.19970922,"start":378487,"end":379124,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.10035938,"start":379127,"end":379261,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.10035938,"start":379263,"end":379393,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.10035938,"start":379395,"end":380043,"thread_id":3779911}
+{"fut_name":"fut0","value":9.5399045e-8,"start":380046,"end":380194,"thread_id":3779911}
+{"fut_name":"fut1","value":9.5399045e-8,"start":380196,"end":380329,"thread_id":3779911}
+{"fut_name":"high cpu","value":9.5399045e-8,"start":380330,"end":380969,"thread_id":3779911}
+{"fut_name":"fut0","value":0.10036337,"start":380973,"end":381109,"thread_id":3779911}
+{"fut_name":"fut1","value":0.10036337,"start":381111,"end":381258,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.10036337,"start":381261,"end":381893,"thread_id":3779911}
+{"fut_name":"fut0","value":0.19970942,"start":381896,"end":382044,"thread_id":3779911}
+{"fut_name":"fut1","value":0.19970942,"start":382046,"end":382193,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.19970942,"start":382194,"end":382825,"thread_id":3779911}
+{"fut_name":"fut0","value":0.29704252,"start":382828,"end":382961,"thread_id":3779911}
+{"fut_name":"fut1","value":0.29704252,"start":382962,"end":383092,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.29704252,"start":383094,"end":383723,"thread_id":3779911}
+{"fut_name":"fut0","value":0.39137602,"start":383725,"end":383854,"thread_id":3779911}
+{"fut_name":"fut1","value":0.39137602,"start":383856,"end":383985,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.39137602,"start":383987,"end":384620,"thread_id":3779911}
+{"fut_name":"fut0","value":0.48175395,"start":384622,"end":384751,"thread_id":3779911}
+{"fut_name":"fut1","value":0.48175395,"start":384753,"end":384883,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.48175395,"start":384884,"end":385513,"thread_id":3779911}
+{"fut_name":"fut0","value":0.5672705,"start":385515,"end":385645,"thread_id":3779911}
+{"fut_name":"fut1","value":0.5672705,"start":385647,"end":385776,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.5672705,"start":385777,"end":386407,"thread_id":3779911}
+{"fut_name":"fut0","value":0.6470557,"start":386409,"end":386541,"thread_id":3779911}
+{"fut_name":"fut1","value":0.6470557,"start":386543,"end":386672,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.6470557,"start":386673,"end":387305,"thread_id":3779911}
+{"fut_name":"fut0","value":0.72030985,"start":387307,"end":387436,"thread_id":3779911}
+{"fut_name":"fut1","value":0.72030985,"start":387437,"end":387566,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.72030985,"start":387568,"end":388197,"thread_id":3779911}
+{"fut_name":"fut0","value":0.7862878,"start":388199,"end":388328,"thread_id":3779911}
+{"fut_name":"fut1","value":0.7862878,"start":388329,"end":388462,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.7862878,"start":388464,"end":389096,"thread_id":3779911}
+{"fut_name":"fut0","value":0.84432817,"start":389098,"end":389227,"thread_id":3779911}
+{"fut_name":"fut1","value":0.84432817,"start":389230,"end":389360,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.84432817,"start":389361,"end":389999,"thread_id":3779911}
+{"fut_name":"fut0","value":0.89384234,"start":390002,"end":390142,"thread_id":3779911}
+{"fut_name":"fut1","value":0.89384234,"start":390144,"end":390277,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.89384234,"start":390278,"end":390916,"thread_id":3779911}
+{"fut_name":"fut0","value":0.93432885,"start":390918,"end":391062,"thread_id":3779911}
+{"fut_name":"fut1","value":0.93432885,"start":391063,"end":391193,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.93432885,"start":391195,"end":391824,"thread_id":3779911}
+{"fut_name":"fut0","value":0.965382,"start":391826,"end":391955,"thread_id":3779911}
+{"fut_name":"fut1","value":0.965382,"start":391957,"end":392086,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.965382,"start":392088,"end":392727,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9866858,"start":392729,"end":392859,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9866858,"start":392860,"end":392988,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9866858,"start":392988,"end":393630,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9980268,"start":393632,"end":393761,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9980268,"start":393762,"end":393891,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9980268,"start":393892,"end":394522,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9992894,"start":394524,"end":394652,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9992894,"start":394652,"end":394780,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9992894,"start":394780,"end":395410,"thread_id":3779911}
+{"fut_name":"fut0","value":0.99046147,"start":395412,"end":395540,"thread_id":3779911}
+{"fut_name":"fut1","value":0.99046147,"start":395541,"end":395669,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.99046147,"start":395669,"end":396298,"thread_id":3779911}
+{"fut_name":"fut0","value":0.97163135,"start":396300,"end":396432,"thread_id":3779911}
+{"fut_name":"fut1","value":0.97163135,"start":396433,"end":396562,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.97163135,"start":396563,"end":397194,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9429907,"start":397196,"end":397326,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9429907,"start":397326,"end":397455,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9429907,"start":397456,"end":398085,"thread_id":3779911}
+{"fut_name":"fut0","value":0.90482664,"start":398087,"end":398215,"thread_id":3779911}
+{"fut_name":"fut1","value":0.90482664,"start":398215,"end":398344,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.90482664,"start":398345,"end":398974,"thread_id":3779911}
+{"fut_name":"fut0","value":0.85752535,"start":398976,"end":399104,"thread_id":3779911}
+{"fut_name":"fut1","value":0.85752535,"start":399105,"end":399232,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.85752535,"start":399233,"end":399861,"thread_id":3779911}
+{"fut_name":"fut0","value":0.80156684,"start":399863,"end":399991,"thread_id":3779911}
+{"fut_name":"fut1","value":0.80156684,"start":399992,"end":400119,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.80156684,"start":400120,"end":400758,"thread_id":3779911}
+{"fut_name":"fut0","value":0.7375119,"start":400762,"end":400897,"thread_id":3779911}
+{"fut_name":"fut1","value":0.7375119,"start":400900,"end":401034,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.7375119,"start":401037,"end":401670,"thread_id":3779911}
+{"fut_name":"fut0","value":0.6660122,"start":401673,"end":401806,"thread_id":3779911}
+{"fut_name":"fut1","value":0.6660122,"start":401809,"end":401942,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.6660122,"start":401945,"end":402577,"thread_id":3779911}
+{"fut_name":"fut0","value":0.58778435,"start":402579,"end":402709,"thread_id":3779911}
+{"fut_name":"fut1","value":0.58778435,"start":402710,"end":402840,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.58778435,"start":402841,"end":403471,"thread_id":3779911}
+{"fut_name":"fut0","value":0.50362086,"start":403473,"end":403603,"thread_id":3779911}
+{"fut_name":"fut1","value":0.50362086,"start":403604,"end":403733,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.50362086,"start":403735,"end":404367,"thread_id":3779911}
+{"fut_name":"fut0","value":0.4143752,"start":404371,"end":404503,"thread_id":3779911}
+{"fut_name":"fut1","value":0.4143752,"start":404506,"end":404639,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.4143752,"start":404642,"end":405275,"thread_id":3779911}
+{"fut_name":"fut0","value":0.32094172,"start":405278,"end":405411,"thread_id":3779911}
+{"fut_name":"fut1","value":0.32094172,"start":405414,"end":405546,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.32094172,"start":405549,"end":406183,"thread_id":3779911}
+{"fut_name":"fut0","value":0.224271,"start":406186,"end":406319,"thread_id":3779911}
+{"fut_name":"fut1","value":0.224271,"start":406321,"end":406454,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.224271,"start":406457,"end":407090,"thread_id":3779911}
+{"fut_name":"fut0","value":0.12533192,"start":407093,"end":407228,"thread_id":3779911}
+{"fut_name":"fut1","value":0.12533192,"start":407231,"end":407361,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.12533192,"start":407363,"end":407992,"thread_id":3779911}
+{"fut_name":"fut0","value":0.025131019,"start":407994,"end":408126,"thread_id":3779911}
+{"fut_name":"fut1","value":0.025131019,"start":408129,"end":408262,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.025131019,"start":408266,"end":408899,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.07532745,"start":408903,"end":409035,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.07532745,"start":409038,"end":409171,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.07532745,"start":409173,"end":409806,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.17502524,"start":409809,"end":409942,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.17502524,"start":409945,"end":410080,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.17502524,"start":410082,"end":410715,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.2729519,"start":410718,"end":410854,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.2729519,"start":410856,"end":410998,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.2729519,"start":411001,"end":411635,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.36812598,"start":411638,"end":411772,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.36812598,"start":411775,"end":411909,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.36812598,"start":411911,"end":412547,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.45957923,"start":412551,"end":412686,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.45957923,"start":412690,"end":412825,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.45957923,"start":412828,"end":413463,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.54639506,"start":413468,"end":413602,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.54639506,"start":413606,"end":413741,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.54639506,"start":413744,"end":414380,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.62769324,"start":414385,"end":414517,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.62769324,"start":414519,"end":414649,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.62769324,"start":414651,"end":415281,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.70265007,"start":415283,"end":415414,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.70265007,"start":415415,"end":415545,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.70265007,"start":415547,"end":416181,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.77051437,"start":416185,"end":416320,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.77051437,"start":416323,"end":416458,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.77051437,"start":416461,"end":417096,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8305956,"start":417100,"end":417235,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8305956,"start":417238,"end":417373,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8305956,"start":417376,"end":418012,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8822917,"start":418016,"end":418151,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8822917,"start":418156,"end":418290,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8822917,"start":418294,"end":418929,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9250782,"start":418933,"end":419068,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9250782,"start":419071,"end":419206,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9250782,"start":419209,"end":419846,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9585219,"start":419851,"end":419987,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9585219,"start":419990,"end":420124,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9585219,"start":420128,"end":420762,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.98228765,"start":420766,"end":420901,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.98228765,"start":420904,"end":421039,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.98228765,"start":421042,"end":421677,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9961336,"start":421681,"end":421816,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9961336,"start":421819,"end":421955,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9961336,"start":421958,"end":422593,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.999921,"start":422597,"end":422732,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.999921,"start":422735,"end":422870,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.999921,"start":422873,"end":423508,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.99361104,"start":423512,"end":423646,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.99361104,"start":423649,"end":423784,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.99361104,"start":423787,"end":424424,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.97726804,"start":424428,"end":424562,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.97726804,"start":424566,"end":424700,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.97726804,"start":424703,"end":425338,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9510558,"start":425342,"end":425476,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9510558,"start":425479,"end":425614,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9510558,"start":425617,"end":426252,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9152412,"start":426254,"end":426386,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9152412,"start":426388,"end":426520,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9152412,"start":426522,"end":427154,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.870183,"start":427156,"end":427288,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.870183,"start":427290,"end":427422,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.870183,"start":427424,"end":428059,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8163397,"start":428064,"end":428199,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8163397,"start":428202,"end":428337,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8163397,"start":428340,"end":428975,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.7542509,"start":428979,"end":429113,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.7542509,"start":429117,"end":429251,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.7542509,"start":429254,"end":429891,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.6845454,"start":429895,"end":430030,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.6845454,"start":430033,"end":430168,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.6845454,"start":430171,"end":430805,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.60793024,"start":430808,"end":430941,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.60793024,"start":430944,"end":431077,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.60793024,"start":431080,"end":431712,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.52517325,"start":431716,"end":431850,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.52517325,"start":431853,"end":431988,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.52517325,"start":431991,"end":432626,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.4371163,"start":432630,"end":432765,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.4371163,"start":432768,"end":432902,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.4371163,"start":432905,"end":433540,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.344642,"start":433544,"end":433679,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.344642,"start":433682,"end":433818,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.344642,"start":433821,"end":434456,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.24868742,"start":434461,"end":434595,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.24868742,"start":434598,"end":434733,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.24868742,"start":434736,"end":435370,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.15022528,"start":435375,"end":435509,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.15022528,"start":435512,"end":435647,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.15022528,"start":435650,"end":436290,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.05024245,"start":436296,"end":436435,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.05024245,"start":436439,"end":436577,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.05024245,"start":436581,"end":437222,"thread_id":3779911}
+{"fut_name":"fut0","value":0.05024394,"start":437227,"end":437365,"thread_id":3779911}
+{"fut_name":"fut1","value":0.05024394,"start":437369,"end":437506,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.05024394,"start":437512,"end":438162,"thread_id":3779911}
+{"fut_name":"fut0","value":0.15022677,"start":438187,"end":438329,"thread_id":3779911}
+{"fut_name":"fut1","value":0.15022677,"start":438332,"end":438466,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.15022677,"start":438468,"end":439102,"thread_id":3779911}
+{"fut_name":"fut0","value":0.24869256,"start":439106,"end":439240,"thread_id":3779911}
+{"fut_name":"fut1","value":0.24869256,"start":439242,"end":439376,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.24869256,"start":439379,"end":440020,"thread_id":3779911}
+{"fut_name":"fut0","value":0.3446434,"start":440027,"end":440170,"thread_id":3779911}
+{"fut_name":"fut1","value":0.3446434,"start":440173,"end":440309,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.3446434,"start":440312,"end":440948,"thread_id":3779911}
+{"fut_name":"fut0","value":0.43711764,"start":440952,"end":441087,"thread_id":3779911}
+{"fut_name":"fut1","value":0.43711764,"start":441090,"end":441226,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.43711764,"start":441230,"end":441866,"thread_id":3779911}
+{"fut_name":"fut0","value":0.5251745,"start":441870,"end":442007,"thread_id":3779911}
+{"fut_name":"fut1","value":0.5251745,"start":442010,"end":442146,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.5251745,"start":442149,"end":442785,"thread_id":3779911}
+{"fut_name":"fut0","value":0.60793144,"start":442789,"end":442924,"thread_id":3779911}
+{"fut_name":"fut1","value":0.60793144,"start":442927,"end":443063,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.60793144,"start":443066,"end":443722,"thread_id":3779911}
+{"fut_name":"fut0","value":0.6845465,"start":443727,"end":443862,"thread_id":3779911}
+{"fut_name":"fut1","value":0.6845465,"start":443864,"end":444003,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.6845465,"start":444006,"end":444643,"thread_id":3779911}
+{"fut_name":"fut0","value":0.75425184,"start":444647,"end":444782,"thread_id":3779911}
+{"fut_name":"fut1","value":0.75425184,"start":444785,"end":444921,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.75425184,"start":444924,"end":445560,"thread_id":3779911}
+{"fut_name":"fut0","value":0.81634057,"start":445565,"end":445699,"thread_id":3779911}
+{"fut_name":"fut1","value":0.81634057,"start":445702,"end":445840,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.81634057,"start":445843,"end":446479,"thread_id":3779911}
+{"fut_name":"fut0","value":0.87018377,"start":446483,"end":446619,"thread_id":3779911}
+{"fut_name":"fut1","value":0.87018377,"start":446622,"end":446758,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.87018377,"start":446761,"end":447397,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9152418,"start":447401,"end":447563,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9152418,"start":447573,"end":447712,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9152418,"start":447717,"end":448355,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9510563,"start":448360,"end":448499,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9510563,"start":448503,"end":448642,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9510563,"start":448646,"end":449290,"thread_id":3779911}
+{"fut_name":"fut0","value":0.97726834,"start":449295,"end":449435,"thread_id":3779911}
+{"fut_name":"fut1","value":0.97726834,"start":449439,"end":449577,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.97726834,"start":449581,"end":450220,"thread_id":3779911}
+{"fut_name":"fut0","value":0.99361163,"start":450225,"end":450364,"thread_id":3779911}
+{"fut_name":"fut1","value":0.99361163,"start":450368,"end":450507,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.99361163,"start":450511,"end":451150,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9999211,"start":451155,"end":451321,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9999211,"start":451325,"end":451463,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9999211,"start":451467,"end":452106,"thread_id":3779911}
+{"fut_name":"fut0","value":0.99613345,"start":452111,"end":452250,"thread_id":3779911}
+{"fut_name":"fut1","value":0.99613345,"start":452254,"end":452393,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.99613345,"start":452397,"end":453036,"thread_id":3779911}
+{"fut_name":"fut0","value":0.98228735,"start":453041,"end":453224,"thread_id":3779911}
+{"fut_name":"fut1","value":0.98228735,"start":453228,"end":453367,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.98228735,"start":453371,"end":454020,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9585215,"start":454025,"end":454168,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9585215,"start":454172,"end":454311,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9585215,"start":454314,"end":454984,"thread_id":3779911}
+{"fut_name":"fut0","value":0.9250762,"start":454991,"end":455135,"thread_id":3779911}
+{"fut_name":"fut1","value":0.9250762,"start":455140,"end":455284,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.9250762,"start":455289,"end":455933,"thread_id":3779911}
+{"fut_name":"fut0","value":0.882291,"start":455941,"end":456085,"thread_id":3779911}
+{"fut_name":"fut1","value":0.882291,"start":456091,"end":456235,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.882291,"start":456240,"end":456884,"thread_id":3779911}
+{"fut_name":"fut0","value":0.8305948,"start":456891,"end":457032,"thread_id":3779911}
+{"fut_name":"fut1","value":0.8305948,"start":457037,"end":457181,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.8305948,"start":457186,"end":457897,"thread_id":3779911}
+{"fut_name":"fut0","value":0.7705134,"start":457987,"end":458128,"thread_id":3779911}
+{"fut_name":"fut1","value":0.7705134,"start":458132,"end":458272,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.7705134,"start":458275,"end":458917,"thread_id":3779911}
+{"fut_name":"fut0","value":0.702649,"start":458923,"end":459074,"thread_id":3779911}
+{"fut_name":"fut1","value":0.702649,"start":459080,"end":459231,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.702649,"start":459236,"end":459880,"thread_id":3779911}
+{"fut_name":"fut0","value":0.6276891,"start":459887,"end":460032,"thread_id":3779911}
+{"fut_name":"fut1","value":0.6276891,"start":460037,"end":460181,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.6276891,"start":460186,"end":460831,"thread_id":3779911}
+{"fut_name":"fut0","value":0.5463938,"start":460838,"end":460981,"thread_id":3779911}
+{"fut_name":"fut1","value":0.5463938,"start":460986,"end":461158,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.5463938,"start":461164,"end":461808,"thread_id":3779911}
+{"fut_name":"fut0","value":0.45957792,"start":461815,"end":461959,"thread_id":3779911}
+{"fut_name":"fut1","value":0.45957792,"start":461964,"end":462108,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.45957792,"start":462114,"end":462758,"thread_id":3779911}
+{"fut_name":"fut0","value":0.3681246,"start":462765,"end":462909,"thread_id":3779911}
+{"fut_name":"fut1","value":0.3681246,"start":462915,"end":463059,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.3681246,"start":463064,"end":463705,"thread_id":3779911}
+{"fut_name":"fut0","value":0.27295047,"start":463712,"end":463856,"thread_id":3779911}
+{"fut_name":"fut1","value":0.27295047,"start":463861,"end":464005,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.27295047,"start":464011,"end":464655,"thread_id":3779911}
+{"fut_name":"fut0","value":0.17502376,"start":464662,"end":464806,"thread_id":3779911}
+{"fut_name":"fut1","value":0.17502376,"start":464811,"end":464955,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.17502376,"start":464960,"end":465618,"thread_id":3779911}
+{"fut_name":"fut0","value":0.07532596,"start":465625,"end":465776,"thread_id":3779911}
+{"fut_name":"fut1","value":0.07532596,"start":465781,"end":465925,"thread_id":3779911}
+{"fut_name":"high cpu","value":0.07532596,"start":465930,"end":466579,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.025132513,"start":466587,"end":466732,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.025132513,"start":466737,"end":466881,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.025132513,"start":466886,"end":467531,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.1253334,"start":467538,"end":467682,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.1253334,"start":467688,"end":467829,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.1253334,"start":467838,"end":468482,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.22427246,"start":468489,"end":468633,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.22427246,"start":468639,"end":468782,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.22427246,"start":468788,"end":469432,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.32094312,"start":469439,"end":469583,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.32094312,"start":469588,"end":469733,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.32094312,"start":469738,"end":470379,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.41437656,"start":470386,"end":470530,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.41437656,"start":470535,"end":470679,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.41437656,"start":470684,"end":471342,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.50362545,"start":471349,"end":471497,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.50362545,"start":471502,"end":471646,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.50362545,"start":471651,"end":472295,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.58778554,"start":472302,"end":472444,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.58778554,"start":472449,"end":472593,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.58778554,"start":472598,"end":473242,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.6660133,"start":473250,"end":473394,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.6660133,"start":473399,"end":473563,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.6660133,"start":473567,"end":474212,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.7375129,"start":474219,"end":474371,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.7375129,"start":474377,"end":474519,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.7375129,"start":474524,"end":475169,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.80156773,"start":475176,"end":475320,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.80156773,"start":475325,"end":475469,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.80156773,"start":475475,"end":476119,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8575281,"start":476126,"end":476270,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8575281,"start":476275,"end":476419,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8575281,"start":476425,"end":477091,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9048273,"start":477098,"end":477243,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9048273,"start":477248,"end":477392,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9048273,"start":477398,"end":478043,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.94299126,"start":478050,"end":478279,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.94299126,"start":478289,"end":478437,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.94299126,"start":478442,"end":479096,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9716317,"start":479103,"end":479248,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9716317,"start":479253,"end":479398,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9716317,"start":479403,"end":480047,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.99046165,"start":480054,"end":480198,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.99046165,"start":480203,"end":480347,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.99046165,"start":480353,"end":480997,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.99928945,"start":481004,"end":481149,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.99928945,"start":481155,"end":481304,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.99928945,"start":481310,"end":481955,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.99802667,"start":481962,"end":482106,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.99802667,"start":482112,"end":482256,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.99802667,"start":482261,"end":482919,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9866856,"start":482925,"end":483118,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9866856,"start":483124,"end":483265,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9866856,"start":483271,"end":483915,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9653816,"start":483922,"end":484066,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9653816,"start":484071,"end":484215,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9653816,"start":484220,"end":484864,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.9343283,"start":484871,"end":485015,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.9343283,"start":485021,"end":485165,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.9343283,"start":485170,"end":485811,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8938417,"start":485818,"end":485966,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8938417,"start":485971,"end":486120,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8938417,"start":486125,"end":486769,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.8443274,"start":486776,"end":486921,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.8443274,"start":486926,"end":487070,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.8443274,"start":487075,"end":487719,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.78628683,"start":487726,"end":487868,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.78628683,"start":487873,"end":488017,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.78628683,"start":488023,"end":488667,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.7203088,"start":488676,"end":488820,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.7203088,"start":488825,"end":488969,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.7203088,"start":488974,"end":489618,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.64705455,"start":489625,"end":490499,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.64705455,"start":490505,"end":490648,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.64705455,"start":490652,"end":491303,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.56726927,"start":491310,"end":492838,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.56726927,"start":492844,"end":492985,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.56726927,"start":492989,"end":493674,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.48175263,"start":493680,"end":493821,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.48175263,"start":493824,"end":493962,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.48175263,"start":493965,"end":494656,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.39137113,"start":494663,"end":494806,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.39137113,"start":494812,"end":494956,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.39137113,"start":494959,"end":495598,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.2970411,"start":495602,"end":495762,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.2970411,"start":495764,"end":495899,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.2970411,"start":495900,"end":496534,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.19970794,"start":496537,"end":496672,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.19970794,"start":496675,"end":496831,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.19970794,"start":496834,"end":497486,"thread_id":3779911}
+{"fut_name":"fut0","value":-0.10036188,"start":497492,"end":497629,"thread_id":3779911}
+{"fut_name":"fut1","value":-0.10036188,"start":497632,"end":497768,"thread_id":3779911}
+{"fut_name":"high cpu","value":-0.10036188,"start":497771,"end":498407,"thread_id":3779911}

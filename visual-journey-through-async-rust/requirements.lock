@@ -30,9 +30,9 @@ jupyter-core==5.7.2
 kiwisolver==1.4.8
     # via matplotlib
 matplotlib==3.10.1
-    # via rust-tokio-futures-timings-vis
+    # via visual-journey-through-async-rust
 nbformat==5.10.4
-    # via rust-tokio-futures-timings-vis
+    # via visual-journey-through-async-rust
 numpy==2.2.2
     # via contourpy
     # via matplotlib
@@ -40,7 +40,7 @@ numpy==2.2.2
 packaging==24.2
     # via matplotlib
 pandas==2.2.3
-    # via rust-tokio-futures-timings-vis
+    # via visual-journey-through-async-rust
 pillow==11.1.0
     # via matplotlib
 platformdirs==4.3.6
